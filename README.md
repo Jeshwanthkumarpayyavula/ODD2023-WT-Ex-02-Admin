@@ -1,7 +1,10 @@
 # Ex-02-Admin
+# Name:Jeshwanth
+# Ref:23002519
+
 
 # AIM
-
+To create 5 users using django
 
 # Design Procedure
 # Step 1:
